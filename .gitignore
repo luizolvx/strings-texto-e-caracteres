@@ -1,0 +1,17 @@
+# Arquivos de compilação
+*.o
+*.out
+*.exe
+
+# Code::Blocks
+*.layout
+*.depend
+*.cbp
+
+# Pastas de build
+bin/
+obj/
+
+# Arquivos temporários
+*.log
+*.tmp
